@@ -16,7 +16,7 @@ footer_text: >
 keywords: cpp, sparse-linear-algebra, NVIDIA, GPU  # add your own keywords or leave empty
 
 lang: en
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: nvidia_logo.jpg # ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://federico-busato.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
