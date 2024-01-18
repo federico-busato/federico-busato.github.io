@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle:
    <i>Accelerating Sparse Linear Algebra at</i> <a href='https://www.nvidia.com'><i>NVIDIA<i></a> <br>
-   Senior Software Engineer, IC5
+   <b>Senior Software Engineer, IC5</b>
 
 profile:
   align: right
@@ -21,14 +21,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a **Senior Software Engineer at NVIDIA** in Santa Clara, US (headquarter).  I work in the CUDA HPC Math Library team and have been **leading the Sparse Linear Algebra group** for the past 6 years.
+I'm a **Software Engineer at NVIDIA** in Santa Clara, US (headquarter).  I work in the **CUDA HPC Math Library** team and have been **leading the Sparse Linear Algebra group** for the past 6 years.
 
 My interests outside sparse linear algebra include *parallel computing*, *software optimization*, and *graph algorithms*. I am also passionate about *programming* and *software engineering*, primarily in C++.
 
 I received my **Ph.D. in Computer Science** from the [University of Verona](https://www.univr.it/en/), working on graph algorithms on GPUs. I spent some months as a visiting scholar at the [Georgia Institute of Technology](https://www.gatech.edu/) in the group of [David Bader](https://davidbader.net/) and I did an internship at NVIDIA.
 
-I taught C++ professionally for 5 years in undergraduate and graduate courses. My little dream is to go back to teaching at a university in the Bay Area.
+I **taught C++ professionally** for 5 years in undergraduate and graduate courses. My little dream is to go back to teaching at a university in the Bay Area.
 
 Please feel free to contact me via [email](mailto:fbusato@nvidia.com) with any questions, ideas, or proposals for collaboration.
 
-Please refer to the [resume](https://andreaskuster.ch/cv) section for details about my career path, experience, and extracurricular activities.
+Please refer to the [resume]([cv | Federico Busato](https://federico-busato.github.io/resume/)) section for details about my career path, experience, and extracurricular activities.
