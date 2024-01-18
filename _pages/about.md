@@ -31,4 +31,4 @@ I **taught C++ professionally** for 5 years in undergraduate and graduate course
 
 Please feel free to contact me via [email](mailto:fbusato@nvidia.com) with any questions, ideas, or proposals for collaboration.
 
-Please refer to the [resume]([cv | Federico Busato](https://federico-busato.github.io/resume/)) section for details about my career path, experience, and extracurricular activities.
+Please refer to the [resume](https://federico-busato.github.io/resume/) section for details about my career path, experience, and extracurricular activities.
