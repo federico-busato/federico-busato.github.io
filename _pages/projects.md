@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Project list of the NVIDIA Sparse Linear Algebra group.
 nav: true
 nav_order: 3
-display_categories: [work, personals]
+display_categories: [work, personal]
 horizontal: false
 ---
 
