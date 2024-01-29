@@ -1,15 +1,11 @@
 ---
 layout: page
-title: SparseBLAS
-description: Design of the new Sparse BLAS standard
-img: assets/img/sparseblas.jpg
-importance: 4
+title: Confidential Project 2
+description: Confidential
+img: assets/img/confidential.png
+importance: 6
 category: work
 ---
-
-
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page

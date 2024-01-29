@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Modern C++ Programming
-description: Open-access C++ course
-img: assets/img/cpp.jpg
-importance: 1
-category: personal
+title: Top500 HPCG Benchmark
+description: a project with a background image and giscus comments
+img: assets/img/3.jpg
+importance: 4
+category: work
+giscus_comments: true
 ---
 
 
+
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
