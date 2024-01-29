@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
    <i>Accelerating Sparse Linear Algebra at</i> <a href='https://www.nvidia.com'><i>NVIDIA<i></a> <br>

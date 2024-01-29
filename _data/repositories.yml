@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - federico-busato
+  - fbusato
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - federico-busato/Modern-CPP-Programming
+  - NVIDIA/CUDALibrarySamples

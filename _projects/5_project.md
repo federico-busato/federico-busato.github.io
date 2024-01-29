@@ -3,7 +3,7 @@ layout: page
 title: Modern C++ Programming
 description: a project with a background image
 img: assets/img/cpp.jpg
-importance: 3
+importance: 1
 category: personal
 ---
 
