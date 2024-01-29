@@ -2,7 +2,7 @@
 layout: page
 title: cuSPARSE
 description: GPU-accelerated Sparse Linear Algebra
-img: assets/img/12.jpg
+img: assets/img/cusparse.jpg
 importance: 1
 category: work
 ---

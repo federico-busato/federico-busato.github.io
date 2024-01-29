@@ -2,8 +2,8 @@
 layout: page
 title: cuSPARSELt
 description: Sparse Tensor Cores Matrix-Matrix Multiplication
-img:
-importance: 3
+img: assets/img/cusparselt.jpg
+mportance: 3
 category: work
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: NVPL Sparse
 description: CPU-accelerated Sparse Linear Algebra
-img: assets/img/7.jpg
+img: assets/img/nvpl.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
