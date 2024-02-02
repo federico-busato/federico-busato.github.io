@@ -1,9 +1,9 @@
 ---
 layout: post
-title: SparseBLAS
+title: NVPL Sparse
 date: 2023-11-07 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Representing NVIDIA in the design of the new SparseBLAS standard
+[NVPL Sparse](https://docs.nvidia.com/nvpl/_static/sparse/index.html) has been released. CPU-Accelerated Sparse Linear Algebra library for NVIDIA Arm-64 Grace
