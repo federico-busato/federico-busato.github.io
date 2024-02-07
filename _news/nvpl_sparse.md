@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-[NVPL Sparse](https://docs.nvidia.com/nvpl/_static/sparse/index.html) has been released. CPU-Accelerated Sparse Linear Algebra library for NVIDIA Arm-64 Grace
+🆕 [NVPL Sparse](https://docs.nvidia.com/nvpl/_static/sparse/index.html), a CPU-Accelerated Sparse Linear Algebra library for NVIDIA Arm-64 Grace, has been released. 
