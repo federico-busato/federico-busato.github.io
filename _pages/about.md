@@ -27,8 +27,8 @@ My interests outside sparse linear algebra include *parallel computing*, *softwa
 
 I received my **Ph.D. in Computer Science** from the [University of Verona](https://www.univr.it/en/), working on graph algorithms on GPUs. I spent some months as a visiting scholar at the [Georgia Institute of Technology](https://www.gatech.edu/) in the group of [David Bader](https://davidbader.net/) and I did an internship at NVIDIA.
 
-I **taught C++ professionally** for 5 years in undergraduate and graduate courses. My little dream is to go back to teaching at a university in the Bay Area.
+I **taught C++ professionally** for 5 years in undergraduate and graduate courses. I maintain an [open-access C++ course](https://github.com/federico-busato/Modern-CPP-Programming). My little dream is to go back to teaching at a university in the Bay Area.
 
 Please feel free to contact me via [email](mailto:fbusato@nvidia.com) with any questions, ideas, or proposals for collaboration.
 
-Please refer to the [resume](https://federico-busato.github.io/resume/) section for details about my career path, experience, and extracurricular activities.
+Please refer to the [resume](https://federico-busato.github.io/resume/) section for details about my career path, experience, and extracurricular activities.
